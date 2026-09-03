@@ -1,0 +1,6 @@
+Join live classes in the morning
+Revise the and rewatch the class on youtube
+Learn Ec2 instances
+Create Ec2 instance connect through SSH , create private key to connect through SSH
+Create new inbound rule
+Started learning git command

@@ -1,0 +1,5 @@
+Join live classes in the morning
+Revise the and rewatch the class on youtube
+Started handson Ec2 server
+Getting hand dirty with linux command in Ec2 servers
+Will continue on linux command
