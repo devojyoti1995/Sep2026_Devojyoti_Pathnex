@@ -1,5 +1,26 @@
-Join live classes in the morning
-Revise the and rewatch the class on youtube
-Started handson Ec2 server
-Getting hand dirty with linux command in Ec2 servers
-Will continue on linux command
+IDP : Gave idea about identity provider in actual indsutry.
+such as okta,google athenticator, azure ping id,
+
+Basic of terraform and created Ec2 instances using 
+terrform
+
+Then jump into linux command
+
+1.started with find command. find [where-to-search] [conditions] [action] ex: find /home -name "test.txt"
+2. sed command is for seach and substitute with the
+value,also manipulate howmany times we can substitute it
+3. awk command is use for printing the specific column
+of every line
+4. chown use to change the owner and group
+5. umask it controls the default permissions 
+  assigned to newly created files and directories. 
+  default value is 022, for file default 666 and directory 777
+6. top command shows real-time information about 
+   running processes, CPU usage, memory usage, and system load.
+7. free -h command is to check RAM usage in Linux
+8. pgrep used to find the process IDs (PIDs) of running processes
+ based on their name or other attributes
+9. kill command use to kill the process.
+10. history command to see the previously used commands.
+
+learn linux 2 hour
