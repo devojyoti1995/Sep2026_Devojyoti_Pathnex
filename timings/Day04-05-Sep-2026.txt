@@ -1,0 +1,25 @@
+5_sept
+started terraform within a single command
+with terraform we create infrustructure, 
+Troubleshooting the ec2 login with root user instead of ec2-user
+ssh have one prvt one public key
+passwordless authentication
+we put public key on which server we want to login, we generate that key public key from our local machine. also we want to enable network for that server, if network not enable even though we put the public key it still not connect.
+telnet command to check the network.it will not connect if anything is not running, if any service is running then only telnet will work.
+create new user instead of root
+how many user to know use : id 
+how to increase disk storage
+rsync
+rsync vs cp (if we want to copy file recursively and ingnore already files we can use rsync)
+what is /etc/fstab
+mount and unmount (unmount -a)
+expand the filesystem (grow command)
+disc scaling ( vertical (same disc size incrs) and horizontal (adding new disc) )
+lsblk useage
+lsblk -> grow -> resize
+grep and egrep
+ifconfig
+to change host name to this file and /etc/hostname and update the host name
+
+how to set password for the new created user : sudo password
+wget useage to download file from internet to your server
