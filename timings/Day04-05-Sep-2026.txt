@@ -1,4 +1,8 @@
 5_sept
+
+2hr Learn about linux command
+2hr watch the linux videos
+
 started terraform within a single command
 with terraform we create infrustructure, 
 Troubleshooting the ec2 login with root user instead of ec2-user
@@ -23,3 +27,18 @@ to change host name to this file and /etc/hostname and update the host name
 
 how to set password for the new created user : sudo password
 wget useage to download file from internet to your server
+ > , 2>, 2>&1, >>
+environment variable
+what is the use $, it is used to access a variable, so we put $ before variable name
+use of echo(echo is a Linux/Unix command used to display text or the value of a variable in the terminal.)
+for execute a file use "./filename"
+ du -h (disk usage human redable format)
+" #!/bin/bash " what is this ? (for interview)
+N:B:  read access required for every file if you need write and execute.
+to see all the user, also want some of them .
+less command and usage of it
+what is inode (meta data)  here it is saving who created when created what is permission of it all this stored in Inode, so in inode metadata is stored, may be the file created and it is empty but still above mentioned details stored in inode. so inode is kind of index .
+to see logs /var/logs
+what is zombie process and orphan process
+ps aux ? 
+tuln is what ? where to use
