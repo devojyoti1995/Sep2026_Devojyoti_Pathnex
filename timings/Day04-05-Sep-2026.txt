@@ -1,0 +1,44 @@
+5_sept
+
+2hr Learn about linux command
+2hr watch the linux videos
+
+started terraform within a single command
+with terraform we create infrustructure, 
+Troubleshooting the ec2 login with root user instead of ec2-user
+ssh have one prvt one public key
+passwordless authentication
+we put public key on which server we want to login, we generate that key public key from our local machine. also we want to enable network for that server, if network not enable even though we put the public key it still not connect.
+telnet command to check the network.it will not connect if anything is not running, if any service is running then only telnet will work.
+create new user instead of root
+how many user to know use : id 
+how to increase disk storage
+rsync
+rsync vs cp (if we want to copy file recursively and ingnore already files we can use rsync)
+what is /etc/fstab
+mount and unmount (unmount -a)
+expand the filesystem (grow command)
+disc scaling ( vertical (same disc size incrs) and horizontal (adding new disc) )
+lsblk useage
+lsblk -> grow -> resize
+grep and egrep
+ifconfig
+to change host name to this file and /etc/hostname and update the host name
+
+how to set password for the new created user : sudo password
+wget useage to download file from internet to your server
+ > , 2>, 2>&1, >>
+environment variable
+what is the use $, it is used to access a variable, so we put $ before variable name
+use of echo(echo is a Linux/Unix command used to display text or the value of a variable in the terminal.)
+for execute a file use "./filename"
+ du -h (disk usage human redable format)
+" #!/bin/bash " what is this ? (for interview)
+N:B:  read access required for every file if you need write and execute.
+to see all the user, also want some of them .
+less command and usage of it
+what is inode (meta data)  here it is saving who created when created what is permission of it all this stored in Inode, so in inode metadata is stored, may be the file created and it is empty but still above mentioned details stored in inode. so inode is kind of index .
+to see logs /var/logs
+what is zombie process and orphan process
+ps aux ? 
+tuln is what ? where to use
