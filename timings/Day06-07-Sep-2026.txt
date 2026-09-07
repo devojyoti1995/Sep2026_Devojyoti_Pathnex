@@ -1,0 +1,24 @@
+7_sept
+
+1hr Learn about linux command
+1hr Git command
+
+Onprem vs cloud server.
+cloud can reachable by internet ip means by public ip, for onprem we need to create vpn connection, and ip range will be in private range. in brief accessable by internet so that is cloud server and accessable by private ip then it is onprem.
+region
+availabilty zone (az1,az2,az3..)(it will secret )
+what is landing zone.(kind of housing society, means it is alreaddy created you can use it aas per your requirement).
+control tower ? (its create landing zone).
+ec2 (spot instance, ondemand, reserved)
+auto-scaling 3 features maximum, minimum, desire.
+iam (authentication vs authorization)
+iam roles.
+iam poilcies.
+what arn(aws resource name)
+interview question important mandatory: internet gateway vs nat gateway
+interview question important mandatory  :  public subnet( attcahed to internet gateway) vs private subnet(connected nat gateway)
+in private subnet no traffic will come from outside
+what is patching (it is kind of repairing if any bugs exists)
+how to know public subnet and private subnet ? -> Check the route table to know whether public or private
+what is s3 storage classes?
+delete marker
