@@ -1,0 +1,13 @@
+6_Sept
+
+1hr Learn about linux command
+
+1hr learn git command
+
+git clone
+git init
+git branch
+git checkout branchname
+git pull
+git status
+git fork
