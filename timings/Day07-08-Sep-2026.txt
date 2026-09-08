@@ -1,0 +1,37 @@
+8_sept
+
+1hr Linux command
+1hr AWS services
+
+session manager : Session Manager provides secure access to 
+EC2 without exposing SSH/RDP ports to the internet. 
+It also provides centralized IAM-based access control and can integrate session activity with logging and auditing.
+
+DNS : DNS = Domain Name System
+It translates human-readable domain names into IP addresses.
+In AWS, the primary DNS service is Route 53.
+
+envrionment : Dev, QA, UAT, Stage, preprod, prod
+record type in route 53 (** important for interview) 
+alias
+ttl
+routing policy (** important for interview)
+Routing policy tells Route 53 how to respond to DNS queries(Simple Routing,Weighted Routing,Latency-Based Routing)
+
+cloud trail : CloudTrail is primarily used for governance, auditing, compliance, and tracking AWS API activity.
+
+cloud watch(aws native monitoring tool) : monitoring and observability service.
+It monitors things such as:EC2,Lambda,ECS,ALB,RDS,Application metrics,Logs
+
+observability (logs,metrics,traces)
+auto scaling
+
+lambda : AWS Lambda is a serverless compute service.You provide code, and AWS manages the underlying servers. 
+(900 sec or 15 mins max execution time of lambda, by default is 3 sec, minimum is 1 sec)
+if it increase morethan 15 mins then use ecs or fargate.
+
+aws shield(apply on public facing features like route 53, cloud front, alb)
+aws waf , rule groups under waf&shield
+cloud front
+NACL vs Security group
+Stateful vs Stateless (important)
