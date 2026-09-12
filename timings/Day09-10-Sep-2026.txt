@@ -1,0 +1,18 @@
+10_sept
+
+1hr Linux command
+
+1hr Docker
+
+VM vs Container
+linux container will run in window kernel, but winodow container won't run in linux kernel. (So linux will run everywhere)
+Docker file   ( copy vs run vs run vs cmd vs entrypoint, this are important for interview )
+Images (Base image vs Custom image)
+Docker engine (docker daemon (containerd, )
+docker compose
+docker registry
+docker network(what are network types in docker)
+network(bridge,host,none,overlay,macvlan(lesss imp))
+how to optimize docker image size(interview)
+prune command(to remove container)
+systemctl
