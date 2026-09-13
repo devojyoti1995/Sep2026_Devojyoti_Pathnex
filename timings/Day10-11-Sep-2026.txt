@@ -1,0 +1,9 @@
+11_sept
+
+1hr Linux command
+
+1hr Docker
+
+Learn about Kubernetes theroy
+
+spend 2hr in Kubernetes
