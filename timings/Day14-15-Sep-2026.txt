@@ -1,0 +1,9 @@
+15_sept
+
+1hr AWS
+
+1hr Docker
+
+1 hrs Kubernetes revision
+
+1 hrs Kubernetes practical practice
