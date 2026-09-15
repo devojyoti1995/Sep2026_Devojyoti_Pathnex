@@ -1,0 +1,9 @@
+12_sept
+
+1hr Linux command
+
+1hr Docker
+
+Kubernetes Practical
+
+3hrs Kubernetes practical
