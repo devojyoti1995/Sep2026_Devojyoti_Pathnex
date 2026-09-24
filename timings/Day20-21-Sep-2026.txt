@@ -1,0 +1,8 @@
+21_sept
+
+
+1 hrs Kubernetes revision
+
+2 hrs ArgoCD video revision
+
+1 hrs Kubernetes practical practice

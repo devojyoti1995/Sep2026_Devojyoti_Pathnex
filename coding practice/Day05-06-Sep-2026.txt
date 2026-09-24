@@ -1,6 +1,6 @@
 # Day 05 — Handlers, User-Data, Resource Limits
 
-## 🔹 Ansible — Handler to Restart Nginx
+## Ansible — Handler to Restart Nginx
 
 ---
 - name: Manage Nginx
@@ -21,7 +21,7 @@
         state: restarted
 
 
-## 🔹 Terraform — EC2 with User Data (c6a.12xlarge)
+## Terraform — EC2 with User Data (c6a.12xlarge)
 
 resource "aws_instance" "PathnexEC2" {
   ami           = "ami-0abcd1234abcd1234"
@@ -39,7 +39,7 @@ EOF
 }
 
 
-## 🔹 Kubernetes — Resource Limits
+## Kubernetes — Resource Limits
 
 apiVersion: v1
 kind: Pod
@@ -57,7 +57,7 @@ spec:
 
 # Day 05 — Environment Variables
 
-## 🔹 Jenkins Pipeline — Use Environment Variables
+##Jenkins Pipeline — Use Environment Variables
 You will learn how to **use environment variables in Jenkins pipelines**.
 
 pipeline {
@@ -79,7 +79,7 @@ pipeline {
     }
 }
 
-## 🔹 GitLab CI — Use Environment Variables
+## GitLab CI — Use Environment Variables
 You will learn how to **use CI variables in GitLab pipelines**.
 
 stages:

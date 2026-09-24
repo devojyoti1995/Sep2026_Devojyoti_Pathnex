@@ -1,0 +1,8 @@
+18_sept
+
+
+2 hrs Kubernetes revision
+
+2 hrs Kubernetes practical practice
+
+1 hrs terraform revision
