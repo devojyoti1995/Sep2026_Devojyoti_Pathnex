@@ -1,0 +1,12 @@
+26_sept
+
+
+1 hr Ansible Helm chart
+
+1 hr AWS revision
+
+1 hr Kubernetes practical with terraform
+
+1 hrs linux command
+
+1 hr prometheus and grafana

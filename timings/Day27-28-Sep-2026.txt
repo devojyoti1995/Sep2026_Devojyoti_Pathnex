@@ -1,0 +1,10 @@
+28_sept
+
+
+1 hrs Datadog prometheus and grafana
+
+1 hrs Kubernetes practical with terraform
+
+1 hrs CI/CD
+
+1 hrs linux command

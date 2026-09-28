@@ -1,0 +1,8 @@
+27_sept
+
+
+1 hrs CI/CD revision
+
+1 hrs Kubernetes terraform
+
+1 hrs Kafka revision

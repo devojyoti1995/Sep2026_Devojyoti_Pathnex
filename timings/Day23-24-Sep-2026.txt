@@ -1,0 +1,10 @@
+24_sept
+
+
+2 hrs CI/CD revision
+
+1 hrs Kubernetes practical
+
+1 hr AWS
+
+2 hrs Ansible

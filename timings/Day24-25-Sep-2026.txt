@@ -1,0 +1,10 @@
+25_sept
+
+
+1 hrs CI/CD revision
+
+1 hrs Kubernetes practical terraform
+
+1 hrs docker
+
+1 hrs linux command
